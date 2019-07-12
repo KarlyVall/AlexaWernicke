@@ -1,6 +1,6 @@
 # Alexa-wernicke
 
-_En este proyecto se busca mejorar el lenguaje en pacientes con Afasia de Wernicke_
+_En este proyecto se busca mejorar el lenguaje en pacientes con Afasia de Wernicke mediante tècnicas terapeuticas de TAW_
 
 ## ¿Què es la afasia de wernicke? 🚀
 
