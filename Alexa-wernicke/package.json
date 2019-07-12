@@ -1,0 +1,18 @@
+{
+    "name": "hola-wernicke",
+    "version": "0.9.0",
+    "description": "primera skill para memorizar los cumpleaños",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Amazon Alexa",
+    "license": "ISC",
+    "dependencies": {
+      "ask-sdk-core": "^2.0.7",
+      "ask-sdk-model": "^1.4.1",
+      "aws-sdk": "^2.326.0",
+      "i18next": "^15.0.5",
+      "i18next-sprintf-postprocessor": "^0.2.2"
+    }
+  }
